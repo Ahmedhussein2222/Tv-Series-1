@@ -1,0 +1,174 @@
+
+
+header{
+    background-color: #302e2e;
+
+    
+       
+} 
+img{
+	width: 100%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+h3 a{
+	
+	color: black;
+	
+	
+}
+
+h3 a:hover{
+	
+	color: #9CA44A;
+	
+	
+}
+
+.logo  {
+    color: white;
+	float: left;
+    display: inline-block;
+	margin-top: 15px;
+	margin-left: 25px;
+    letter-spacing: 4px;
+
+}
+    
+
+
+
+
+nav{
+    
+    padding: 20px;
+
+    
+    
+    
+}
+
+
+nav ul{
+     
+    
+    text-align: center;
+  
+    
+}
+
+
+
+nav ul li {
+    
+    display: inline;
+    padding: 10px;
+    font-size:25px;
+    margin-right: 10px;
+    
+    
+    
+    
+    
+}
+
+
+
+nav ul li a{
+    
+    text-decoration: none;
+    color: white;
+    padding:15px;
+    font-size: 18px;
+    text-align: center;
+    margin: 30px;
+  
+}
+
+
+ nav ul li a:hover{
+    color:#9CA44A;
+	 text-decoration: none
+}
+
+
+
+
+
+
+
+
+
+#k{
+color: black;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+    
+    
+}
+
+.company{
+	
+	color: #9CA44A;
+	font-weight: bold;
+	
+}
+
+.paragraphfont{
+        	font-weight: bold;
+	color: #717070;
+
+
+    
+}
+
+
+#p{
+	
+	padding: 10px;
+	
+}
+
+.frame{
+    
+    
+    background-color:#9CA44A;
+    padding: 5px;
+    margin: 0 auto;
+    
+}
+.y{
+    
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    margin-right: 50px;
+    font-family: sans-serif;
+    
+
+}
+
+
+
+h3:hover{
+   
+
+        color: crimson;
+    
+}
+
+
+hr{
+    
+    
+    
+    
+}
